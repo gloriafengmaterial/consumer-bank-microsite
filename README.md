@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chase Consumer Bank Dashboard
 
 A responsive React dashboard built from Figma designs with **Code Connect** integration for real-time design-to-code synchronization.
@@ -265,3 +266,6 @@ Contact your design/dev team or reach out to Claude for design-driven updates.
 
 **Last Updated:** April 2026  
 **Status:** Draft - Ready for local development
+=======
+# consumer-bank-microsite
+>>>>>>> 81eca4c2a2e92f8a8544c3aa49f4b97e4d982c38
