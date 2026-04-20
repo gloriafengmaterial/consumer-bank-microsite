@@ -66,9 +66,14 @@ const Dashboard = () => {
         </p>
       </div>
 
-      <div style={{ padding: '0 120px', marginBottom: '32px', marginTop: '32px' }}>
+      <div style={{ 
+            maxWidth: '1440px', 
+            margin: '32px auto', 
+            padding: '0 120px',
+            width: '100%'
+      }}>
         {/* Top Row: Left & Right Modules */}
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px', marginBottom: '32px' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '24px', marginBottom: '32px' }}>
           
           {/* LEFT MODULE */}
           <div style={{ backgroundColor: 'white', padding: '40px', borderRadius: '20px', boxShadow: '0 1px 3px rgba(0,0,0,0.08)', fontFamily: 'Inter, sans-serif' }}>
