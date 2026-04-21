@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Chase Consumer Bank Dashboard
+#  Consumer Bank Dashboard
 
 A responsive React dashboard built from Figma designs with **Code Connect** integration for real-time design-to-code synchronization.
 
